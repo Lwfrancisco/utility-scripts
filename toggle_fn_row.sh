@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# Toggles fn key default behavior on Keychron K2. (and maybe other keyboards)
+# Toggles fn row default behavior between F1-F12 and media keys on Keychron K2. (and maybe other keyboards)
 # Run with root (sudo) permissions.
 
 # Current behavior of fn row.
